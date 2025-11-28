@@ -1,5 +1,6 @@
 # News-Article-Topic-Classification.
-# BBC News Text Classification using BERT (Linear Probing)
+
+BBC News Text Classification using BERT (Linear Probing)
 
 This project performs text classification on the **BBC News dataset** using
 **Transfer Learning with BERT (bert-base-uncased)**.  
@@ -123,9 +124,9 @@ Freezing BERT:
 
 Since the work was completed in Colab:
 
-- `bbc_news_bert_linear_probe.ipynb`  
+- `News-Article-Topic-Classification.ipynb`  
 - This README with full explanation  
-- (Optional) Saved model + tokenizer if exported
+- requirements.txt
 
 ---
 
